@@ -39,7 +39,7 @@ function setupSquares(){
                 reset.textContent = "Play again?";
            } else {
                 this.style.backgroundColor = "#232323";
-                messageDisplay.textContent = "Try again";
+                messageDisplay.textContent = "Wrong";
            }
         });
     }
